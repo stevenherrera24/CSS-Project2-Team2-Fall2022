@@ -1,1 +1,1 @@
-Project 2
+Our computational social science submission for our second project. Group members include Steven Herrera Tenorio, Flavia Leite, and Abiola Oyebanjo. All of our code, figures, and discussion text are in the file titled 'Project 2 Students.ipynb'. 
